@@ -44,6 +44,7 @@
 #import <Buy/BUYMaskedCreditCard.h>
 #import <Buy/BUYOption.h>
 #import <Buy/BUYOptionValue.h>
+#import <Buy/BUYOperation.h>
 #import <Buy/BUYOrder.h>
 #import <Buy/BUYPaymentToken.h>
 #import <Buy/BUYProduct.h>
